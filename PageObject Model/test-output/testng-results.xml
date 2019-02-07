@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33799" started-at="2019-01-09T11:54:20Z" finished-at="2019-01-09T11:54:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33799" started-at="2019-01-09T11:54:20Z" finished-at="2019-01-09T11:54:54Z">
+      <class name="com.wordpress.testcases.ValidateWordpressPost">
+        <test-method status="PASS" signature="validatePost()[pri:0, instance:com.wordpress.testcases.ValidateWordpressPost@76f2b07d]" name="validatePost" duration-ms="33777" started-at="2019-01-09T11:54:20Z" finished-at="2019-01-09T11:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePost -->
+      </class> <!-- com.wordpress.testcases.ValidateWordpressPost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
