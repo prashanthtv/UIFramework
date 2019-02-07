@@ -15,10 +15,11 @@ public class LoginPage {
 		
 	}
 	
-	
+	//this is new commit from prashanth
 	WebDriver driver;
 	
 	By username=By.xpath("//input[@id='user_login']");
+	By username1=By.xpath("//input[@id='user_login']");
 	By password=By.xpath("//input[@id='user_pass']");
 	By loginbutton=By.xpath("//input[@id='wp-submit']");
 	
